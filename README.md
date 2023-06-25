@@ -5,6 +5,6 @@
 - 📫 How to reach me on my instagram handle: @_praanz_ and my email id: pranjalraghav5th@gmail.com
 
 <!---
-pranjalraghav/pranjalraghav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+praanz/praanz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
