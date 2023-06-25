@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranjalraghav
+- 👋 Hi, I’m @praanz
 - 👀 I’m interested in programming and future technologies.
 - 🌱 I’m currently learning in btech 4th year.
 - 💞️ I’m looking to collaborate on various projects to polish my skills.
