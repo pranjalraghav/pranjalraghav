@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranjalraghav
 - 👀 I’m interested in programming and future technologies.
-- 🌱 I’m currently learning in btech 2nd year.
+- 🌱 I’m currently learning in btech 4th year.
 - 💞️ I’m looking to collaborate on various projects to polish my skills.
 - 📫 How to reach me on my instagram handle: @_praanz_ and my email id: pranjalraghav5th@gmail.com
 
